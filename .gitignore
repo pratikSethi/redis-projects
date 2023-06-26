@@ -1,0 +1,30 @@
+# IntelliJ IDEA
+.idea/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# Compiled Java classes
+*.class
+
+# Logs
+*.log
+
+# JetBrains-specific files
+*.iml
+.idea_modules/
+out/
+
+# User-specific files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+
+# Exclude specific run/debug configurations
+.idea/runConfigurations/
